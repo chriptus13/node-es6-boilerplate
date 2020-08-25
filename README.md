@@ -1,7 +1,5 @@
 # Node ES6 Boilerplate
 
-[![Collaborizm](https://img.shields.io/badge/Collaborizm-Join%20now-blue.svg)](https://www.collaborizm.com/) [![Build Status](https://travis-ci.org/aharshac/node-es6-boilerplate.svg?branch=master)](https://travis-ci.org/aharshac/node-es6-boilerplate)   
-
 Boilerplate for Node.js projects with lint, transpile and test configurations.
 
 &nbsp;
@@ -9,7 +7,7 @@ Boilerplate for Node.js projects with lint, transpile and test configurations.
 ## Installation
 
 1. Clone repo    
-`git clone https://github.com/aharshac/node-es6-boilerplate.git <dir_name>`    
+`git clone https://github.com/chriptus13/node-es6-boilerplate.git <dir_name>`    
 
 2. Change directory    
 `cd <dir_name>`    
